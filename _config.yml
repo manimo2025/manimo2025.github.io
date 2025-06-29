@@ -18,12 +18,7 @@ description: "I play factorio and write about it." # This will show up in places
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-# theme: minima
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark
+theme: minima
   
 
 kramdown:
