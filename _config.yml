@@ -20,8 +20,6 @@ description: "I play factorio and write about it." # This will show up in places
 #########################################################################################
 theme: "minima"
 
-minima:
-  skin: dark
   
 rss: rss
 
